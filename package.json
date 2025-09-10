@@ -24,7 +24,7 @@
     "@tsconfig/node22": "^22.0.2",
     "@types/electron": "^1.6.12",
     "@types/node": "^22.18.1",
-    "@vitejs/plugin-vue": "^5.2.4",
+    "@vitejs/plugin-vue": "^6.0.1",
     "@vue/tsconfig": "^0.7.0",
     "electron": "^38.1.0",
     "electron-builder": "^26.0.12",
